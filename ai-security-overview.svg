@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">AI for Security and Security for AI</title>
+  <desc id="desc">인공지능 보안의 두 축인 AI를 활용한 보안과 AI 시스템 보안을 나란히 소개하는 그림</desc>
+  <defs>
+    <style>
+      text { font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif; }
+      .heading { font-size: 25px; font-weight: 700; fill: #fff; }
+      .item { font-size: 17px; font-weight: 600; fill: #172536; }
+      .small { font-size: 13px; fill: #34465a; }
+      .num { font-size: 18px; font-weight: 700; fill: #fff; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect width="1200" height="650" fill="#f8fafc"/>
+  <rect x="24" y="20" width="500" height="610" rx="18" fill="#fff" stroke="#2463b5" stroke-width="2"/>
+  <rect x="676" y="20" width="500" height="610" rx="18" fill="#fff" stroke="#cf4035" stroke-width="2"/>
+  <path d="M42 40h464v56H42z" rx="12" fill="#1756a5"/>
+  <path d="M694 40h464v56H694z" rx="12" fill="#b9362f"/>
+  <text x="274" y="77" class="heading" text-anchor="middle">AI for Security</text>
+  <text x="926" y="77" class="heading" text-anchor="middle">Security for AI</text>
+  <path d="M600 214v-24l-28 29h18v70h20v-70h18l-28-29z" fill="#478dcc" transform="rotate(-90 600 250)"/>
+  <path d="M600 365v-24l-28 29h18v70h20v-70h18l-28-29z" fill="#d94b40" transform="rotate(90 600 400)"/>
+  <circle cx="600" cy="310" r="65" fill="#fff" stroke="#b9c7d8" stroke-width="2"/>
+  <path d="M600 258l38 15v31c0 27-16 44-38 55-22-11-38-28-38-55v-31z" fill="#eaf3fb" stroke="#2573ae" stroke-width="4"/>
+  <text x="600" y="319" font-size="28" font-weight="700" fill="#1762a4" text-anchor="middle">AI</text>
+  <text x="600" y="343" font-size="13" font-weight="700" fill="#173b63" text-anchor="middle">인공지능 보안</text>
+  <g stroke="#d7e1ed" stroke-width="1">
+    <path d="M42 202h464M42 300h464M42 398h464M42 496h464M42 594h464"/>
+    <path d="M694 202h464M694 300h464M694 398h464M694 496h464M694 594h464"/>
+  </g>
+  <g>
+    <circle cx="67" cy="143" r="19" fill="#1756a5"/><text x="67" y="149" class="num">1</text>
+    <text x="101" y="138" class="item">보안 데이터와</text><text x="101" y="162" class="item">데이터 전처리</text>
+    <ellipse cx="405" cy="138" rx="22" ry="8" fill="#3183c4"/><path d="M383 138v29c0 11 44 11 44 0v-29M383 148c0 11 44 11 44 0M383 158c0 11 44 11 44 0" fill="#3183c4" stroke="#fff" stroke-width="1.5"/>
+    <path d="M455 124h28l12 12v35h-40zM483 124v13h12" fill="#edf5fc" stroke="#4384bb" stroke-width="2"/><path d="M462 145h22M462 153h22M462 161h18" stroke="#4384bb"/>
+    <circle cx="67" cy="241" r="19" fill="#1756a5"/><text x="67" y="247" class="num">2</text>
+    <text x="101" y="247" class="item">네트워크 침입 탐지</text>
+    <g stroke="#4384bb" stroke-width="2" fill="#dcecf8"><path d="M402 222l28 17-28 24-29-18zM373 245l29 18 28-24M402 222v41"/><circle cx="402" cy="222" r="7"/><circle cx="373" cy="245" r="7"/><circle cx="430" cy="239" r="7"/><circle cx="402" cy="263" r="7"/></g>
+    <circle cx="463" cy="243" r="17" fill="#fff" stroke="#1756a5" stroke-width="4"/><path d="M475 256l13 13" stroke="#1756a5" stroke-width="5"/><text x="463" y="250" font-size="20" font-weight="700" fill="#cf4035" text-anchor="middle">!</text>
+    <circle cx="67" cy="339" r="19" fill="#1756a5"/><text x="67" y="345" class="num">3</text>
+    <text x="101" y="345" class="item">악성코드 및 피싱 탐지</text>
+    <circle cx="405" cy="339" r="24" fill="#e8f2fa" stroke="#4384bb" stroke-width="2"/><path d="M405 323v31m-9-23l-7-7m25 7l7-7m-25 21l-7 7m25-7l7 7m-16-20h-8m16 0h8" stroke="#28659b" stroke-width="3" stroke-linecap="round"/><circle cx="405" cy="339" r="6" fill="#4384bb"/>
+    <path d="M448 327h38l12 12v23h-50z" fill="#fff" stroke="#4384bb" stroke-width="2"/><path d="M448 339h50M458 327l-10 12" stroke="#4384bb" stroke-width="2"/><path d="M481 326v16m-7-8h14" stroke="#cf4035" stroke-width="3"/>
+    <circle cx="67" cy="437" r="19" fill="#1756a5"/><text x="67" y="443" class="num">4</text>
+    <text x="101" y="431" class="item">AI를 활용한</text><text x="101" y="455" class="item">보안 데이터 분석</text>
+    <rect x="380" y="416" width="49" height="42" rx="6" fill="#dcecf8" stroke="#4384bb" stroke-width="2"/><text x="404" y="443" font-size="18" font-weight="700" fill="#1756a5" text-anchor="middle">AI</text><path d="M376 423h-6m6 9h-6m6 9h-6m6 9h-6m59-27h6m-6 9h6m-6 9h6m-6 9h6" stroke="#4384bb" stroke-width="2"/>
+    <rect x="453" y="418" width="48" height="40" rx="4" fill="#fff" stroke="#4384bb" stroke-width="2"/><path d="M462 450v-9h7v9m5 0v-17h7v17m5 0v-12h7v12" fill="#64a5d5"/><path d="M461 431l10 5 8-8 9 3" fill="none" stroke="#cf4035" stroke-width="2"/>
+    <circle cx="67" cy="535" r="19" fill="#1756a5"/><text x="67" y="541" class="num">5</text>
+    <text x="101" y="529" class="item">생성형 AI를 이용한</text><text x="101" y="553" class="item">로그 분석</text>
+    <path d="M384 516h29l12 12v41h-41zM413 516v13h12" fill="#edf5fc" stroke="#4384bb" stroke-width="2"/><rect x="384" y="539" width="41" height="17" rx="3" fill="#1756a5"/><text x="404" y="552" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">LOG</text>
+    <path d="M450 520h48v34h-29l-10 9v-9h-9z" fill="#fff" stroke="#4384bb" stroke-width="2"/><path d="M460 532h27m-27 8h19" stroke="#4384bb" stroke-width="2"/><path d="M458 578v-9h7v9m5 0v-15h7v15m5 0v-11h7v11" fill="#4384bb"/>
+  </g>
+  <g>
+    <circle cx="719" cy="143" r="19" fill="#b9362f"/><text x="719" y="149" class="num">1</text>
+    <text x="753" y="149" class="item">프롬프트 인젝션</text>
+    <path d="M930 121h113a8 8 0 0 1 8 8v36h-44l-10 10v-10h-67a8 8 0 0 1-8-8v-28a8 8 0 0 1 8-8z" fill="#fff0ed" stroke="#d46a60" stroke-width="2"/><text x="942" y="140" class="small">이전 지시를 무시하고...</text>
+    <rect x="1080" y="125" width="47" height="47" rx="16" fill="#f1f4f7" stroke="#485768" stroke-width="2"/><circle cx="1103" cy="144" r="14" fill="#303d4b"/><circle cx="1098" cy="143" r="2.5" fill="#fff"/><circle cx="1108" cy="143" r="2.5" fill="#fff"/><path d="M1098 151q5 5 10 0" fill="none" stroke="#fff" stroke-width="2"/>
+    <circle cx="719" cy="241" r="19" fill="#b9362f"/><text x="719" y="247" class="num">2</text>
+    <text x="753" y="247" class="item">Jailbreak</text>
+    <path d="M908 222h43v38h-43zM1058 222h43v38h-43z" fill="#59616a"/><path d="M914 228h30v8h-30m0 12h30v8h-30m120-20h-30v8h30m0 12h-30v8h30" fill="#d7dce1"/><path d="M982 219l-10 15 12 8-11 17 20-20-12-8 10-12" fill="#fff" stroke="#59616a" stroke-width="2"/>
+    <circle cx="719" cy="339" r="19" fill="#b9362f"/><text x="719" y="345" class="num">3</text>
+    <text x="753" y="335" class="item">RAG / LLM</text><text x="753" y="359" class="item">애플리케이션 보안</text>
+    <rect x="914" y="315" width="216" height="58" rx="6" fill="#f7f9fb" stroke="#e4b1ac"/><rect x="927" y="326" width="48" height="29" rx="4" fill="#e6f0f8" stroke="#7194b2"/><rect x="992" y="326" width="55" height="29" rx="4" fill="#e6f0f8" stroke="#7194b2"/><rect x="1063" y="326" width="51" height="29" rx="4" fill="#e6f0f8" stroke="#7194b2"/><text x="951" y="345" class="small" text-anchor="middle">사용자</text><text x="1020" y="345" class="small" text-anchor="middle">앱</text><text x="1088" y="345" class="small" text-anchor="middle">LLM</text><path d="M976 340h14m58 0h14" stroke="#526b80" stroke-width="2"/><text x="1022" y="368" font-size="11" fill="#34465a" text-anchor="middle">지식베이스 (RAG)</text>
+    <circle cx="719" cy="437" r="19" fill="#b9362f"/><text x="719" y="443" class="num">4</text>
+    <text x="753" y="443" class="item">데이터 유출 및 오염</text>
+    <path d="M917 416h28l11 11v38h-39zM945 416v12h11" fill="#fff" stroke="#71869a" stroke-width="2"/><path d="M923 437h24m-24 7h24m-24 7h17" stroke="#71869a"/><ellipse cx="971" cy="450" rx="13" ry="5" fill="#2f71a8"/><path d="M958 450v12c0 7 26 7 26 0v-12m-26 6c0 7 26 7 26 0" fill="#2f71a8"/><path d="M1035 433a12 12 0 0 1 24 0v9h-24zM1031 442h32v22h-32z" fill="#b9362f"/><circle cx="1047" cy="451" r="3" fill="#fff"/><path d="M1047 454v5" stroke="#fff" stroke-width="2"/><path d="M1097 426l21 36h-42z" fill="#34465a"/><circle cx="1097" cy="445" r="4" fill="#d7e1ed"/>
+    <circle cx="719" cy="535" r="19" fill="#b9362f"/><text x="719" y="541" class="num">5</text>
+    <text x="753" y="541" class="item">AI 모델 공격</text>
+    <g stroke="#71869a" stroke-width="2" fill="#edf1f4"><path d="M942 520l27 14 27-15m-54 1l27 28 27-14m-27-14v27m27-27l22 14m-22 0l22 14"/><circle cx="942" cy="520" r="6"/><circle cx="969" cy="534" r="6"/><circle cx="996" cy="519" r="6"/><circle cx="969" cy="548" r="6"/><circle cx="1018" cy="533" r="6"/><circle cx="1018" cy="562" r="6"/></g><path d="M1039 540h27" stroke="#cf4035" stroke-width="4"/><path d="M1066 533l12 7-12 7z" fill="#cf4035"/><rect x="1090" y="519" width="42" height="42" fill="#e8edf2"/>
+  </g>
+  <rect x="42" y="598" width="464" height="24" rx="4" fill="#edf5fc"/><rect x="694" y="598" width="464" height="24" rx="4" fill="#fff0ed"/>
+  <text x="274" y="617" font-size="15" font-weight="700" fill="#1756a5" text-anchor="middle">AI가 보안을 강화하여 위협을 탐지하고 대응</text>
+  <text x="926" y="617" font-size="15" font-weight="700" fill="#b9362f" text-anchor="middle">AI 시스템을 보호하여 안전성과 신뢰성을 확보</text>
+</svg>
